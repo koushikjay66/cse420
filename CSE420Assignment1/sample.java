@@ -1,8 +1,8 @@
-int a, b, c;
+int a, b,      c;
 float d, e;
 a = b = 5;
 c = 6;
-if ( a > b)
+if         ( a > b)
 {
 	c = a - b;
 	e = d - 2.0;
